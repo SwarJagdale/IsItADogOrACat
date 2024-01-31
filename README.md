@@ -1,5 +1,5 @@
 # IsItADogOrACat
-## - A Cat or Dog Classifier
+## A Cat or Dog Classifier
 
 Welcome to the Cat or Dog Classifier, a deep learning model trained in TensorFlow and deployed on Streamlit!
 
