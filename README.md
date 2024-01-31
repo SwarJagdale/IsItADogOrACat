@@ -10,6 +10,7 @@ This classifier uses a deep neural network model trained on a dataset containing
 ## Usage
 To use the Cat or Dog Classifier, simply visit https://schwarz-isitadogoracat.streamlit.app/ and upload a photo of of a dog or a cat to know which it is.
 
+!(Usagephoto.png)
 ## Technology Stack
 
     TensorFlow: Deep learning framework used for model training and prediction.
